@@ -3,4 +3,4 @@
 
 - :mortar_board: I'm a student at School 21
 - :four_leaf_clover: I'm a frontend developer
-- :phone: How to reach me: <a href="https://t.me/dcahall"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="telegram" /><a/>
+- :phone: How to reach me:   <a href="https://t.me/dcahall"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="telegram" /><a/>
